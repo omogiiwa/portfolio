@@ -50,7 +50,7 @@ nav {
 }
 
 .logo img {
-    width: 130px;
+    width: 180px;
     height: auto;
     display: block;
 }
@@ -343,7 +343,7 @@ footer {
 
     .hero {
         min-height: 100svh;
-        padding-top: 300px;
+        padding-top: 220px;
     }
 
     .hero h1 {
