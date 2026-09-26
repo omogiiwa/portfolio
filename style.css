@@ -343,6 +343,7 @@ footer {
 
     .hero {
         min-height: 100svh;
+        padding-top: 150px;
     }
 
     .hero h1 {
